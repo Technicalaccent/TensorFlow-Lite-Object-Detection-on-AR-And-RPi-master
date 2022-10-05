@@ -52,6 +52,6 @@ Alright! Now that everything is set up, running the TFLite model is easy. Just c
 python TFLite_detection_webcam.py --modeldir=custom_model_lite
 ```
 
-A window will appear showing detection results drawn on the live webcam feed. For more information on how to use the detection scripts, please see [Step 3 in the main README page](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi#step-3-run-tensorflow-lite-models).
+A window will appear showing detection results drawn on the live webcam feed. For more information on how to use the detection scripts, please see [Step 3 in the main README page](https://github.com/Technicalaccent/TensorFlow-Lite-Object-Detection-on-AR-And-RPi-master#step-3-run-tensorflow-lite-models).
 
 Have fun using TensorFlow Lite! Stay tuned for more examples on how to build cool applications around your model.
